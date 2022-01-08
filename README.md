@@ -6,7 +6,7 @@
 
 * Multi interest
 
-* group
+* Group
 
 ##  GNN
 
