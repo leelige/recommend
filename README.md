@@ -1,6 +1,5 @@
 # article
 
-[TOC]
 
 ## GNN
 
