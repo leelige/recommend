@@ -50,7 +50,7 @@
 |  9   | [Sliding Spectrum Decomposition for Diversified](https://github.com/leelige/recommend/blob/master/multi/Sliding%20Spectrum%20Decomposition%20for%20Diversified%20Recommendation.pdf) | Yanhua Huang |        小红书         |  KDD 2021   |                                                              |
 |  10  | [On the Diversity and Explainability of Recommender Systems:A Practical Framework for Enterprise App Recommendation](https://github.com/leelige/recommend/blob/master/multi/On%20the%20Diversity%20and%20Explainability%20of%20Recommender%20Systems_A%20Practical%20Framework%20for%20Enterprise%20App%20Recommendation.pdf) | Wenzhuo Yang |  SalesForce Research  |  CIKM 2021  |                     application(special)                     |
 
-## group
+## Group
 
 |      |                            title                             |     author     |                organization                |   conference    |             note              |
 | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------: | :-------------: | :---------------------------: |
