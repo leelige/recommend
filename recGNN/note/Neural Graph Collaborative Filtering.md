@@ -14,7 +14,7 @@ We argue that an inherent drawback of such methods（传统的矩阵分解和MLP
 
 This leads to the expressive modeling of **high-order connectivity**（**高阶连通性**） in user-item graph, effectively injecting the collaborative signal into the embedding process in an explicit manner.**[高阶连通性的目的就是为了获取隐式交互]**
 
-[GitHub](https://github.com/ xiangwang1223/neural_graph_collaborative_filtering)
+[GitHub](https://github.com/xiangwang1223/neural_graph_collaborative_filtering)
 
 ![](https://raw.githubusercontent.com/leelige/upic/main/picgo/image-20220112164824687.png)
 
