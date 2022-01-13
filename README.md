@@ -30,7 +30,7 @@
 
 |      | title | author| conference | note |
 | :----: |  :----------------------------------------------------------: | :--------: | :-------: | :-------: |
-| 1    | [Neural Graph Collaborative Filtering](https://github.com/leelige/recommend/blob/master/recGNN/Neural%20Graph%20Collaborative%20Filtering.pdf) | Xiangnan He |  SIGIR 2019  | |
+| 1    | [Neural Graph Collaborative Filtering](https://github.com/leelige/recommend/blob/master/recGNN/Neural%20Graph%20Collaborative%20Filtering.pdf) | Xiangnan He |  SIGIR 2019  | [reading note](https://github.com/leelige/recommend/blob/master/recGNN/note/LightGCNSimplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.md) |
 | 2 | [LightGCN: Simplifying and Powering Graph Convolution](https://github.com/leelige/recommend/blob/master/recGNN/LightGCN.pdf) | Xiangnan He | SIGIR 2020 | [reading note](https://github.com/leelige/recommend/blob/master/recGNN/note/Neural%20Graph%20Collaborative%20Filtering.md) |
 
 
