@@ -2,11 +2,11 @@
 
 * [GNN](#GNN)
 
-* RecGNN
+* [RecGNN](#recGNN)
 
-* Multi interest
+* [Multi interest](#Multi interest)
 
-* Group
+* [Group](#Group)
 
 ##  GNN
 
