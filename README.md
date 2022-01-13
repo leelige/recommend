@@ -1,6 +1,6 @@
 # article
 
-* GNN
+* [GNN](# GNN)
 
 * RecGNN
 
