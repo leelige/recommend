@@ -4,7 +4,7 @@
 
 * [RecGNN](#recGNN)
 
-* [Multi interest](#Multi interest)
+* [Multi interest](#Multi-interest)
 
 * [Group](#Group)
 
