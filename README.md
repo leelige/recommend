@@ -8,7 +8,7 @@
 
 * [Group](#Group)
 
-* [Collaborative Filtering](#Collaborative Filtering)
+* [Collaborative Filtering](#Collaborative-Filtering)
 
 ##  GNN
 
@@ -62,7 +62,7 @@
 |  5   | [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation](https://github.com/leelige/recommend/blob/master/group/Double-Scale%20Self-Supervised%20Hypergraph%20Learning%20for%20Group%20Recommendation.pdf) |   Junwei Zhang     |     Chong Qing University, China      | CIKM 2021 |                               |
 
 
-## Collaborative Filtering
+## Collaborative-Filtering
 
 |      |                            title                             |     author     |                organization                |   conference    |             note              |
 | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------: | :-------------: | :---------------------------: |
