@@ -17,7 +17,7 @@
             - [群组偏好表征](#群组偏好表征)
             - [用户-群组联合损失](#用户-群组联合损失)
      - [动机](#动机)
-           - [对比表征学习](#对比表征学习(Contrastive%20Representation%20Learning))
+           - [对比表征学习](#对比表征学习(contrastive-representation-learning))
 
 
 ## 论文工作
