@@ -6,7 +6,7 @@
 
 **conference**: SIGIR 2020
 
-[[TOC]]
+[TOC]
 
 ## 论文工作
 
