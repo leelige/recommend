@@ -8,6 +8,8 @@
 
 * [Group](#Group)
 
+* [Collaborative Filtering](#Collaborative Filtering)
+
 ##  GNN
 
 
@@ -59,3 +61,8 @@
 |  4   | [Hierarchical Hyperedge Embedding-Based Representation Learning for Group Recommendation](https://github.com/leelige/recommend/blob/master/group/Hierarchical%20Hyperedge%20Embedding-Based%20Representation.pdf) |    Lei Guo     |     Shandong Normal University, China      | ACM Transaction 2021 |                               |
 |  5   | [Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation](https://github.com/leelige/recommend/blob/master/group/Double-Scale%20Self-Supervised%20Hypergraph%20Learning%20for%20Group%20Recommendation.pdf) |   Junwei Zhang     |     Chong Qing University, China      | CIKM 2021 |                               |
 
+
+## Collaborative Filtering
+
+|      |                            title                             |     author     |                organization                |   conference    |             note              |
+| :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------: | :-------------: | :---------------------------: |
