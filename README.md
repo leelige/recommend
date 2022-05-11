@@ -10,6 +10,8 @@
 
 * [Collaborative Filtering](#Collaborative-Filtering)
 
+* [Learning to Rank](#learning-to-rank)
+
 ##  GNN
 
 
@@ -36,7 +38,7 @@
 | 2 | [LightGCN: Simplifying and Powering Graph Convolution](https://github.com/leelige/recommend/blob/master/recGNN/LightGCN.pdf) | Xiangnan He | USTC | SIGIR 2020 |   [reading note](https://github.com/leelige/recommend/blob/master/recGNN/note/LightGCNSimplifying%20and%20Powering%20Graph%20Convolution%20Network%20for%20Recommendation.md) |
 
 
-## Multi-interest
+## Multi interest
 
 |      |                            title                             |    author    |     organization      | conference  |                             note                             |
 | :--: | :----------------------------------------------------------: | :----------: | :-------------------: | :---------: | :----------------------------------------------------------: |
@@ -67,3 +69,11 @@
 |      |                            title                             |     author     |                organization                |   conference    |             note              |
 | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------: | :-------------: | :---------------------------: |
 | 1 |                                [one-class collaborative filtering](https://github.com/leelige/recommend/blob/master/Collaborative%20Filtering/one-class%20collaborative%20filtering.pdf) |    潘嵘    |     中山大学(现), HP LAB    |    ICDM 2008   |    讨论协同过滤**负采样**技术的开山之作，难点在于如何从共现矩阵中提取负样本，论文在这一点上并没有清晰说明，但论文对于missing value的讨论具有借鉴意义 |
+
+
+## Learning to Rank
+|      |                            title                             |     author     |                organization                |   conference    |             note              |
+| :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------: | :-------------: | :---------------------------: |
+| 1 |                                [A Short Introduction to Learning to Rank](https://github.com/leelige/recommend/blob/master/ranking/a%20short%20introduction%20to%20learning%20to%20rank.pdf) |    李航    |     MRSA    |    IEICE TRANSACTIONS on Information and Systems 2011   |   LTR（Learning torank）学习排序是一种监督学习（SupervisedLearning）的排序方法。LTR已经被广泛应用到文本挖掘的很多领域，比如IR中排序返回的文档，推荐系统中的候选产品、用户排序，机器翻译中排序候选翻译结果等等 |
+| 2 |                                [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://github.com/leelige/recommend/blob/master/ranking/Bayesian%20Personalized%20Ranking.pdf) |    Steffen Rendle   |     University of Hildesheim  |    UAI 2009 (CCF B 会议)  |  对级排序算法(pair-wise ranking)  |
+
