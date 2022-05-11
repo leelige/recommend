@@ -66,3 +66,4 @@
 
 |      |                            title                             |     author     |                organization                |   conference    |             note              |
 | :--: | :----------------------------------------------------------: | :------------: | :----------------------------------------: | :-------------: | :---------------------------: |
+| 1 |                                [one-class collaborative filtering](https://github.com/leelige/recommend/blob/master/Collaborative%20Filtering/one-class%20collaborative%20filtering.pdf) |    潘嵘    |     中山大学(现), HP LAB    |    ICDM 2008   |    讨论协同过滤**负采样**技术的开山之作，难点在于如何从共现矩阵中提取负样本，论文在这一点上并没有清晰说明，但论文对于missing value的讨论具有借鉴意义 |
